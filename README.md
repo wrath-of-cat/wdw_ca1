@@ -1,4 +1,9 @@
 # wdw_ca1
+YASHARTH SRIVASTAVA
+ROLLNO - 202501100300304
+BRANCH - CSEAI
+CLASS - 1-D
+
 Here, I make a launch page for Lenovo Loq.
 
 I have used HTML and also inline CSS.
